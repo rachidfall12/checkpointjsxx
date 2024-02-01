@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+.p1{
+  color:darkgreen;
+  font-size: larger;
+}
+ .rambo{
+  display: flex;
+  justify-content: space-between; 
+}
