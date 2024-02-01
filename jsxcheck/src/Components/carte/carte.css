@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    margin: 10px;
+    border-radius: 20px;
+}
+.card{
+    padding: 0;
+    text-align: left;
+    color: white;
+    background-color: rgb(54, 64, 65);
+    height: 500px;
+    
+}
+.container img{
+    height: 220px;
+}
